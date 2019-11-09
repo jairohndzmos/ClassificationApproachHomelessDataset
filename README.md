@@ -2,7 +2,7 @@
 
 # Introduction
 
-This repository shows a training model that applying four supervised classification algorithms, using 14 features and one binary label, testing a dataset publicated in National Colombian Data Archive (ANDA)
+This repository shows a training model that applying four supervised classification algorithms, using 14 features and one binary label, testing a dataset publicated in National Colombian Data Archive '(ANDI)'
 
 # Dataset
 
