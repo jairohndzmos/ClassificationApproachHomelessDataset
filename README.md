@@ -6,7 +6,7 @@ This repository shows a training model that applying four supervised classificat
 
 # Dataset
 
-The dataset, provide by the study named as' COLOMBIA-Censo de Habitantes de Calle - CHC 2017 - Bogotá, D.C', from this one, has been selected  14 predictive features (source: [http://microdatos.dane.gov.co/index.php/catalog/548/study-description](http://microdatos.dane.gov.co/index.php/catalog/548/study-description)):
+The dataset, provide by the study named as COLOMBIA-Censo de Habitantes de Calle - CHC 2017 - Bogotá, D.C', from this one, has been selected  14 predictive features (source: [http://microdatos.dane.gov.co/index.php/catalog/548/study-description](http://microdatos.dane.gov.co/index.php/catalog/548/study-description)):
 
  
 
