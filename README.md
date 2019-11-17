@@ -42,14 +42,15 @@ Testing in some parameters that could improve particular model's final accuracy
 
 ## Results
 
-Taking as indicator f1 weighted average score, might said SVM approach with rbf kernel parameter shows better results, introduced by following table:
+Taking as indicator f1 weighted average score, might said SVM approach with linear kernel parameter shows better results, introduced by following table:
       
 
               precision    recall  f1-score   support
-           1       0.84      0.84      0.84       697
-           2       0.67      0.66      0.67       334
-    micro avg      0.79      0.79      0.79      1031
-    macro avg      0.76      0.75      0.75      1031 
-    weighted avg   0.79      0.79      0.79      1031
+
+           1       0.73      0.80      0.76       361
+           2       0.75      0.68      0.72       329
+    accuracy                           0.74       690
+    macro avg       0.74     0.74      0.74       690
+    weighted avg    0.74     0.74      0.74       690
 
 
